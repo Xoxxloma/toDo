@@ -1,5 +1,5 @@
 Hey!
-<p>This is my first React app, u can check it out here [uCanDoIt](http://ucandoit.surge.sh/ "WoW")<p>
-<p>Thx.<p>
+<p>This is my first React app, u can check it out here <http://ucandoit.surge.sh/></p>
+<p>Thx.</p>
 
 
